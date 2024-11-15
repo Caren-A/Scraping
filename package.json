@@ -1,0 +1,16 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "Este trabajo practico fue diseñado para crear un \"Top 3 de Lenguajes de Programación más usados en 2024\" según diferentes páginas web que encontré y comparandose entre ellas.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.48.2"
+  }
+}
